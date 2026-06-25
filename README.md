@@ -6,6 +6,8 @@ HTML5: Estrutura semântica do site.
 
 CSS3: Estilização, design responsivo e layout.
 
+JavaScript: Interatividade do site e efeitos de animação. 
+
 Git/GitHub: Controle de versão e hospedagem.
 
 ### 📋 Funcionalidades
